@@ -8,8 +8,7 @@ Is your sample in a tube? would you like it in a 96-well plate? Then the tube-to
 So your sample is now in a 96-well plate. Lets normalize it! Using the ONT_Normalization excel doc place your sample concentrations in the first table. Save the Sample_CSV tab as a CSV and Water_CSV as a separate CSV. Now open the normalization program on your EpMotion and import these CSVs. 
 
 ## Eppendorf EpMotion 5075 Library Preparation of gDNA using Oxford Nanopore LSK109 with Native barcoding
-The protocol is designed to process 24 samples and breaks it into 2 programs: end-prep and native barcoding.
--If you'd like to edit this to work with more/less samples don't forget to edit the barcoding incubation wait time as well. 
+The protocol is designed to process 24 samples and breaks it into 2 programs: end-prep and native barcoding.If you'd like to edit this to work with more/less samples don't forget to edit the barcoding incubation wait time as well. 
 
 We multiplex 8 samples/flowcell. If you'd like to multiplex more you'll need to edit the barcode reagent transfer step. 
 
