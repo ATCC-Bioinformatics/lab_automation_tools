@@ -1,5 +1,6 @@
 # Lab Automation Tools
-This is a work in progress and there are more iterations/improvements to come. Any suggestions would be much appreciated.
+This is a work in progress and there are more iterations/improvements to come. Any suggestions would be much appreciated. Please feel free to contact me with questions, concerns, and ideas at sgreenfield@atcc.org
+
 I designed these programs for our lab's needs, it works for us. It may not work for everyone or may take optimization to work. We mainly do WGS sequencing on bacteria and mycology samples. This has not yet been tested on gDNA from cell lines or ultra-HMW samples.
 ## Eppendorf epMotion 5075 Library Preparation of gDNA using Oxford Nanopore’s SQK-NBD114.96, Native Barcoding Kit 96 V14.
 This is the long awaited update to my previous protocols! It is fully walk away and combines both the end-prep and barcode ligation. 
@@ -26,4 +27,5 @@ The program will do a cleanup of 8 pools regardless of how many samples you inpu
 Adapter ligation and loading are still done by hand.
 
 Thank you,
+
 Sam 
